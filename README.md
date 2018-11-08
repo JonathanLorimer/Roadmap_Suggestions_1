@@ -31,6 +31,8 @@
 	- AKA making sure they cant fuck things up from the UI
 	- Better intellisense for manouvering around code
 	- Vue is offering more and more support for typescript (Entire vue codebase is now written in typescript)
+- Testing
+	- Ideally have 100% test coverage of the front-end and back-end
 
 #### Conclusion
 Implementing all of this will require a complete re-write of the front-end. I anticipate it would take about a month of dedicated work to completely transition to these libraries and frameworks. As for overhead, with all the ad-hoc dependencies in the current project, and with good bundling/minifying in the future state, I think the total weight of our front end will decrease. I have a vue project that uses all the above dependencies, and I could do some benchmarking if performance is a concern.
