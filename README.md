@@ -14,7 +14,7 @@
 	- Allows us to modularize and re-use UI components (i.e. modals or user-card)
 - [ESLint](https://eslint.org/)
 	- Actually enforce all the requirements (Satya built in workarounds in the config file)
-	- Would like to customize our rules some more (i.e. enfore snake case as per Rohan's preference, and enforce 4 space tabs as per my preferences)
+	- Would like to customize our rules some more (i.e. enforce snake case as per Rohan's preference, and enforce 4 space tabs as per my preferences)
 	- Currently we are using a hacked up version of the [AirBnB styleguide](https://github.com/airbnb/javascript)
 - [Webpack](https://webpack.js.org/) & [Babel](https://babeljs.io/)
 	- Webpack allows us to bundle and minify our JS so that we can build out a dependancy chain
