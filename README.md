@@ -5,7 +5,7 @@
 	- Keep codebase consistent with Discovery app
 	- Highly opinionated framework will keep things consistent
 - [Vuex](https://vuex.vuejs.org/guide/)
-	- Global store will faciliate moving informatino between components
+	- Global store will faciliate moving information between components
 	- Adds cacheing capabilities to limit requests across the wire
 	- Centralizes shared data and makes it easier to reason about
 - Single Page Application via [Vue Router](https://router.vuejs.org/guide/)
